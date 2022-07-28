@@ -1,0 +1,17 @@
+.Authform input{
+ display:block;
+ width:100%;
+
+}
+.u-error {
+    padding:1rem;
+    font-weight:bold;
+    color:#FFF;
+    background-color: #CC7A6F;
+
+}
+  @media screen and (min-width:64em){
+     .AuthForm {max-width: 50vw}
+ 
+
+  }
